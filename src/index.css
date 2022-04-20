@@ -7,7 +7,7 @@
 }
 .body{
     background: url('./assets/img/dark-wallpaper-30.jpg') no-repeat;
-    height: 100vh;
+    height: 670px;
     background-size: cover;
     background-position: center;
 }
@@ -486,14 +486,7 @@ input[type="radio"]{
     background-position: center;
 }
 }
-@media (max-width:890px) {
-  .body{
-    background: url('./assets/img/dark-wallpaper-30.jpg') no-repeat;
-    height: 75vh;
-    background-size: cover;
-    background-position: center;
-}
-}
+
 @media (max-width:450px) {
   .body{
     background: url('./assets/img/dark-wallpaper-30.jpg') no-repeat;
@@ -508,10 +501,10 @@ input[type="radio"]{
   padding: 20px;
 }
 }
-@media (min-width:470px) and (max-width:570px) {
+@media (min-width:270px) and (max-width:570px) {
   .body{
     background: url('./assets/img/dark-wallpaper-30.jpg') no-repeat;
-    height: 77vh;
+    height: 100vh;
     background-size: cover;
     background-position: center;
 }
