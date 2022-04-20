@@ -497,7 +497,7 @@ input[type="radio"]{
 @media (max-width:450px) {
   .body{
     background: url('./assets/img/dark-wallpaper-30.jpg') no-repeat;
-    height: 65vh;
+    height: 70vh;
     background-size: cover;
     background-position: center;
 }
@@ -511,7 +511,7 @@ input[type="radio"]{
 @media (min-width:470px) and (max-width:570px) {
   .body{
     background: url('./assets/img/dark-wallpaper-30.jpg') no-repeat;
-    height: 70vh;
+    height: 77vh;
     background-size: cover;
     background-position: center;
 }
