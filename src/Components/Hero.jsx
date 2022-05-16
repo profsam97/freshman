@@ -10,8 +10,8 @@ const Hero = () => {
     </h1>
     <p>Orgam can help you staff up quickly to meet your business goals</p>
 
-    <button className="btn">Start Hiring 
-    <FontAwesomeIcon icon={faArrowRight}/></button>
+    <button className="btn"> Start Hiring 
+     &nbsp;<FontAwesomeIcon icon={faArrowRight}/></button>
   </div>
   )
 }

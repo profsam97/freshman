@@ -5,7 +5,7 @@ const CompanyList = () => {
 <section className="company">
     <ul id="list-1">
         <li> slack</li>
-        <li>Netflix</li>
+        <li>NETFLIX</li>
         <li>fitbit</li>
         <li>Google</li>
         <li> airbnb</li>

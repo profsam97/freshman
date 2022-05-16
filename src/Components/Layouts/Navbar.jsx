@@ -29,7 +29,6 @@ const Navbar = () => {
             </div>
         </ul>
     </nav>
-    <button> <a href="#home">Get Started</a> </button>
   </header>
   </>
   )
